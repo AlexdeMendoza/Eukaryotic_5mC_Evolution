@@ -5,7 +5,7 @@
 
  The data and code used for the *Acanthamoeba* / *Naegleria* / *Cyanophora* methylome project.
  
- EM-seq and RNA-seq raw data can be found here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE249241
+ EM-seq and RNA-seq raw data can be found in GEO: [GSE249241](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287846)
  
  This repository includes processed files and is divided into 5 folders:
 
