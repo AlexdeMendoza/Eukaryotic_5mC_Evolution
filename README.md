@@ -7,7 +7,7 @@
  
  EM-seq and RNA-seq raw data can be found in GEO: [GSE249241](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287846)
  
- This repository includes processed files and is divided into 5 folders:
+ This repository includes processed files and is divided into 3 folders:
 
 ## DNMT_phylogeny
  This folder contains the DNMT sequences, alignments and trees from EukProt, Giant Virus DB, Mirusvirus, Asgardarchaeota and other sequences.
