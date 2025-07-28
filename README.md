@@ -1,5 +1,5 @@
 # Eukaryotic_5mC_Evolution
- Files and code associated to Sarre et al 2025: Cytosine Methylation is a marker of Viral Gene Transfer across the eukaryotes. [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.15.648976v1.full)
+ Files and code associated to Sarre et al 2025: Repressive Cytosine Methylation is a marker of Viral Gene Transfer across distant eukaryotes. [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaf176/8213644)
 
 
 
