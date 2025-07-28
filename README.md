@@ -7,9 +7,6 @@
  
  [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaf176/8213644)
 
-
-
- The data and code used for the *Acanthamoeba* / *Naegleria* / *Cyanophora* methylome project.
  
  EM-seq and RNA-seq raw data can be found in GEO: [GSE249241](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287846)
  
